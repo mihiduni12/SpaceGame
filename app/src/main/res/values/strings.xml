@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="string_1">Score : 0</string>
+    <string name="string_2">High Score : 0</string>
+    <string name="string_3">Start</string>
+    <string name="string_4">Space Storm</string>
+    <string name="string_5"> GAME OVER</string>
+
+
+</resources>
